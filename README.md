@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archersama" alt="archersama" /> </p>
 
-- 👋 Hi, I’m @archersama , HuaWei Noah Ark Lab Researcher
+- 👋 Hi, I’m @archersama , HuaWei Noah Ark Recommendation&Search Lab Researcher
 - 👀 I’m interested in information retrieval and nature language processing. Recently, I focus on LLM for recommendation.
 - 📫 How to reach me  xiangyangli@pku.edu.cn
 
