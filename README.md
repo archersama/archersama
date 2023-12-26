@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archersama" alt="archersama" /> </p>
 
 - 👋 Hi, I’m @archersama , HuaWei Noah Ark Recommendation&Search Lab Researcher
-- ✨ Welcome to join us！No, we only need school graduates, no interns. Resume can be sent to me directly.
+- ✨ Welcome to join us！Now, we only need school graduates, no interns. Resume can be sent to me directly.
 
-Requirements:1. Graduated from Top School OR 2. At least one computer top conference paper published
+     Requirements:1. Graduated from Top School OR 2. At least one computer top conference paper published
 - 👀 I’m interested in information retrieval and nature language processing. Recently, I focus on LLM for recommendation.
 - 📫 How to reach me  xiangyangli@pku.edu.cn
 
