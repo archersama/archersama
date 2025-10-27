@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archersama" alt="archersama" /> </p>
 
-- 👋 Hi, I’m Xiangyang Li , ZHIPU Researcher focus on Code LLM.
+- 👋 Hi, I’m Xiangyang Li , Z.AI Researcher focus on Code LLM.
 - ✨ Welcome to join us！Now, we need school graduates and interns. Resume can be sent to me directly.
 
      Requirements:1. Graduated from Top School OR 2. At least one computer top conference paper published
